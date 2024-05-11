@@ -47,17 +47,12 @@ I'm constantly on the quest for knowledge, exploring new techniques and technolo
 
 [![Brain Uploading to Cloud GIF](https://media.giphy.com/media/3oriOhzYZDOhXu/giphy.gif)](link/to/data_future_article) ☁️ 
 
-**Added Animation:**
+**Working Links:**
 
-* **Moving GIFs:** Replaced static GIF with a moving "Brain Uploading to Cloud GIF" to further showcase data and innovation.
+* Data Pipeline Rollercoaster: https://i.imgur.com/Y8DnZ9H.jpg (You can replace this with a different image you like)
+* Brain Uploading to Cloud GIF: https://media.giphy.com/media/3oriOhzYZDOhXu/giphy.gif (You can explore other GIFs as well)
 
-**More Emojis:**
+**Remember:**
 
-* Added emojis for each technology and skill: 
-    *  for ETL Symphony (musical reference)
-    *  for Azure Databricks Maestro (data visualization)
-    *  for Fivetran Flow (data flow)
-    * ️️ for Data Warehousing & Data Lakes (building)
-    * ⏱️ for Real-time Data Pipelines (speed and growth)
-    *  for Projects & Playgrounds (achievement)
-
+* Replace placeholders with your actual information and links.
+* Customize the content and visuals to reflect your unique personality and brand.
