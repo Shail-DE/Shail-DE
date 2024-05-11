@@ -1,6 +1,6 @@
 ## Welcome to My Data Playground! 
 
-[![Data Pipeline as a Rollercoaster](path/to/rollercoaster.jpg)](link/to/data_pipeline_article)  Get ready for a thrilling ride through the world of data! I'm a data engineer passionate about building robust and efficient data pipelines that unlock valuable insights. Here's a glimpse into my skillset: 🪄
+[![Data Pipeline Rollercoaster](https://i.imgur.com/Y8DnZ9H.jpg)](link/to/data_pipeline_article)  Get ready for a thrilling ride through the world of data! I'm a data engineer passionate about building robust and efficient data pipelines that unlock valuable insights. Here's a glimpse into my skillset: 🪄
 
 **Technologies:**
 
@@ -14,10 +14,10 @@
 
 **Insights & Expertise:**
 
-* **Data Warehousing & Data Lakes:** Building secure and scalable repositories for insightful analysis. ️
-* **Real-time Data Pipelines:** Delivering fresh data insights at the speed of business. ⏱️ 
+* **Data Warehousing & Data Lakes:** Building secure and scalable repositories for insightful analysis. ️️
+* **Real-time Data Pipelines:** Delivering fresh data insights at the speed of business. ⏱️
 * **Data Quality Assurance:** Ensuring data integrity and accuracy for reliable decision-making.  ️
-* **Data Visualization:** Transforming data into compelling stories for better understanding. ️
+* **Data Visualization:** Transforming data into compelling stories for better understanding. ️️
 
 **Certifications:**
 
@@ -30,7 +30,7 @@
 **Projects & Playgrounds:**
 
 * [(Link to your most impressive data engineering project)](link/to/project1) - A showcase of my skills in action! ➡️
-* [(Link to another noteworthy project)](link/to/project2) - Demonstrating my versatility in data pipelines ️➡️
+* [(Link to another noteworthy project)](link/to/project2) - Demonstrating my versatility in data pipelines ️➡️️
 
 **Let's Connect!**
 
@@ -45,4 +45,19 @@ I'm constantly on the quest for knowledge, exploring new techniques and technolo
 
 **Bonus:**
 
-[![Brain Merging with Cloud GIF](path/to/brain_cloud_gif.gif)](link/to/data_future_article) ☁️✨
+[![Brain Uploading to Cloud GIF](https://media.giphy.com/media/3oriOhzYZDOhXu/giphy.gif)](link/to/data_future_article) ☁️ 
+
+**Added Animation:**
+
+* **Moving GIFs:** Replaced static GIF with a moving "Brain Uploading to Cloud GIF" to further showcase data and innovation.
+
+**More Emojis:**
+
+* Added emojis for each technology and skill: 
+    *  for ETL Symphony (musical reference)
+    *  for Azure Databricks Maestro (data visualization)
+    *  for Fivetran Flow (data flow)
+    * ️️ for Data Warehousing & Data Lakes (building)
+    * ⏱️ for Real-time Data Pipelines (speed and growth)
+    *  for Projects & Playgrounds (achievement)
+
