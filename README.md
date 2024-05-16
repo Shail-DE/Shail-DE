@@ -8,7 +8,7 @@ Hi there! I'm Shail Mishra, a passionate Data Engineer with 1 year of hands-on e
   - Designed and implemented REST API ETL pipelines for seamless data integration, enabling real-time data updates.
   - Implemented Delta Live Tables for incremental updates and efficient change data capture.
   - Worked with medical data to ensure compliance with regulatory standards and optimize data storage and retrieval.
-  - Led database migration projects, ensuring minimal downtime and data integrity during the transition.
+  - Executed database migration projects, ensuring minimal downtime and data integrity during the transition.
   - Processed and analyzed e-commerce data to extract valuable insights and drive business decisions.
   - Utilized SQL, Python, and stored procedures for data manipulation, transformation, and analysis.
   - Deployed solutions on Azure, leveraging cloud services for scalability, reliability, and cost-effectiveness.
