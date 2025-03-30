@@ -1,67 +1,83 @@
-# Hi there! 👋 I'm Shail Mishra
+# 🚀 Shail Raj Mishra | Data Engineer  
 
-🚀 **Data Engineer | Cloud & Big Data Enthusiast**  
-💡 Optimizing ETL pipelines, accelerating SQL & PySpark queries, and crafting scalable data solutions.
+![ETL Pipeline](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
 
-![Data Engineer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+## About Me
 
----
+Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with expertise in **Big Data, ETL Pipelines, and Distributed Systems**. With ~2 years of experience optimizing **Azure-based** data workflows, I've reduced query runtimes by **95%**, consolidated **complex pipelines**, and migrated **800M+ records** seamlessly. I love solving data challenges, designing efficient architectures, and automating workflows.
 
-## 🌟 About Me
-
-🔹 **Experience:** 2+ years in Microsoft Azure, ETL, and big data processing.  
-🔹 **Optimized SQL & PySpark:** Reduced query runtimes by **95%** 🔥.  
-🔹 **Database Migration:** Led 500M+ record migrations & designed streamlined ADF pipelines.  
-🔹 **Passion:** Automating workflows, designing scalable data architectures, and performance tuning.
+- 🌍 **Location:** Hyderabad, India  
+- 🎓 **Education:** B.Tech, National Institute of Technology (NIT), Silchar
+- 🔗 **LinkedIn:** [shailrajmishra](https://www.linkedin.com/in/shailrajmishra)  
+- 📧 **Email:** shailrajm2@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Skills & Tech Stack
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white)
+🔹 **Cloud Platforms:** Azure, GCP  
+🔹 **Programming & Query Languages:** Python, SQL, Jinja, HiveQL  
+🔹 **Big Data & Distributed Computing:** Hadoop, PySpark, Databricks  
+🔹 **ETL & Orchestration:** Apache Airflow, ADF, Fivetran  
+🔹 **Databases:** SQL Server, MongoDB, Cassandra  
 
-**Cloud & Databases:**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**ETL & Orchestration:**  
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)
-![Fivetran](https://img.shields.io/badge/Fivetran-0056D2?style=for-the-badge&logo=fivetran&logoColor=white)
+![Big Data](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### **🔹 GEN-AI ERD Generator** *(Flask, Python, OpenAI API)*
-🔸 Automated ERD generation from stored procedures using **Gen-AI**, reducing manual effort by **70%**.  
-🔸 Accelerated database design workflows **3x faster**, leading to **40% quicker** client proposal approvals.  
-🔸 Adopted by **5+ teams**, improving collaboration and reducing iteration time.  
-📌 [Project Demo](https://drive.google.com/file/d/1GBcJp2qOKGq8Zlpr0bCg1-lq4RPFzq0e/view?usp=sharing)
+### 📌 Data Engineer @ Accordion Partners (formerly Merilytics)  
 
-### **🔹 Data Pipeline Optimization** *(Azure, PySpark, SQL Server)*
-🔸 Consolidated **15 ADF pipelines** into a **single optimized** workflow, reducing complexity by **90%**.  
-🔸 Implemented **STAR schema & SCD2**, earning **C-suite appreciation**.  
-🔸 Optimized ADF pipelines, cutting runtime by **50%** for faster insights.
+#### 🛒 **E-commerce Data Management & Analytics**  
+✅ Optimized **GA4 API** data models, **cutting query runtime by 95%** 🔥  
+✅ Consolidated **15 ADF pipelines into 1**, reducing complexity by **90%**  
+✅ Designed a **STAR schema-based marketing model** for better analytics  
+
+#### 🏥 **Healthcare Data Management**  
+✅ Built **ETL pipelines** for **12+ API endpoints**, ensuring seamless data ingestion  
+✅ Developed **PySpark** jobs for API-to-Delta-Live transformations  
+✅ Optimized ADF pipelines, reducing execution time by **50%**  
+
+#### 🏗️ **Database Migration (800M+ Records)**  
+✅ Migrated **500+ tables** from **Azure SQL Data Warehouse to Azure SQL Warehouse**  
+✅ Reduced incremental data loading time by **40%**  
+✅ Automated **daily validation reports** using Azure Logic Apps  
+
+---
+
+## 🚀 Key Projects
+
+### 📌 GEN-AI ERD Generator  
+🔹 **Tech Stack:** Python, Flask, OpenAI API  
+🔹 Automated **ERD generation from stored procedures** reducing manual effort by **70%**  
+🔹 Accelerated database design workflows by **3x**, improving collaboration  
+🔹 Adopted by **5+ teams**, streamlining client proposals 📈  
+
+![ERD Automation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
 ---
 
 ## 🏆 Achievements
 
-🏅 **"Above and Beyond" Award** for successful **DB migration** within **5 months of joining**.  
-📊 **Omdena Blog Feature**: Published **data visualization deck** on water availability in Lagos, Nigeria.  
-📈 Recognized **Top Performer** twice in a year with an **8/10 rating**.
+🏅 **"Above and Beyond" Award (Oct 2023)** for database migration success  
+🏅 Recognized **Top Performer (Twice)** with an 8/10 rating  
+🏅 Data visualization insights featured on **Omdena Blog**  
 
 ---
 
-## 🔗 Connect with Me
+## 📚 Certifications & Bootcamps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailrajmishra)  
-📩 **Email:** shailrajm2@gmail.com
+✅ **Data Engineering Bootcamp (Azure)**  
+✅ Hands-on **Big Data, SQL Optimization, Cloud Data Warehousing**  
 
-Let's build something awesome together! 🚀
+---
+
+## 📢 Let's Connect!
+
+💡 Passionate about **data engineering, cloud architecture, and automation**? Let's chat!  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shailrajmishra) | ✉️ shailrajm2@gmail.com  
+
+![Data Engineer](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 
