@@ -4,10 +4,10 @@
 
 ## About Me
 
-Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with expertise in **Big Data, ETL Pipelines, and Distributed Systems**. With ~2 years of experience optimizing **Azure-based** data workflows, I've reduced query runtimes by **95%**, consolidated **complex pipelines**, and migrated **800M+ records** seamlessly. I love solving data challenges, designing efficient architectures, and automating workflows.
+Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with expertise in **Big Data, ETL Pipelines, and Distributed Systems**. With ~2 years of experience optimizing **Azure-based** data workflows, I've reduced query runtimes by **95%**, consolidated **complex pipelines**, and migrated **800M+ records** seamlessly. I love solving data challenges, designing efficient architectures, and automating workflows. 
 
 - 🌍 **Location:** Hyderabad, India  
-- 🎓 **Education:** B.Tech, National Institute of Technology (NIT), Silchar
+- 🎓 **Education:** B.Tech, National Institute of Technology (NIT), Silchar 
 - 🔗 **LinkedIn:** [shailrajmishra](https://www.linkedin.com/in/shailrajmishra)  
 - 📧 **Email:** shailrajm2@gmail.com  
 
@@ -43,6 +43,8 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 ✅ Migrated **500+ tables** from **Azure SQL Data Warehouse to Azure SQL Warehouse**  
 ✅ Reduced incremental data loading time by **40%**  
 ✅ Automated **daily validation reports** using Azure Logic Apps  
+
+![Data Pipeline](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 
 ---
 
