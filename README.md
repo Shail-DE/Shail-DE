@@ -56,7 +56,6 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 🔹 Accelerated database design workflows by **3x**, improving collaboration  
 🔹 Adopted by **5+ teams**, streamlining client proposals 📈  
 
-![ERD Automation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
 ---
 
