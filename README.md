@@ -78,5 +78,5 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shailrajmishra) | ✉️ shailrajm2@gmail.com  
 
-![Data Engineer](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
+![Data Engineer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWttdG1nOGo2YzBpdmtrOTMzN3VhOTZtZ2tzc2tod3AzajNma3VociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)  
 
