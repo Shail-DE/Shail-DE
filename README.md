@@ -44,8 +44,6 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 ✅ Reduced incremental data loading time by **40%**  
 ✅ Automated **daily validation reports** using Azure Logic Apps  
 
-![Data Pipeline](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-
 ---
 
 ## 🚀 Key Projects
