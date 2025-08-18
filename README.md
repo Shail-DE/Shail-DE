@@ -1,4 +1,4 @@
-# 🚀 Shail Raj Mishra | Data Engineer  
+# 🚀 Shail Raj Mishra | Data Engineer 
 
 ![ETL Pipeline](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
 
@@ -28,21 +28,46 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 ## 💼 Professional Experience
 
 ### 📌 Data Engineer @ Accordion Partners (formerly Merilytics)  
+# 💻 Data Engineering Portfolio  
 
-#### 🛒 **E-commerce Data Management & Analytics**  
-✅ Optimized **GA4 API** data models, **cutting query runtime by 95%** 🔥  
-✅ Consolidated **15 ADF pipelines into 1**, reducing complexity by **90%**  
-✅ Designed a **STAR schema-based marketing model** for better analytics  
+---
 
-#### 🏥 **Healthcare Data Management**  
-✅ Built **ETL pipelines** for **12+ API endpoints**, ensuring seamless data ingestion  
-✅ Developed **PySpark** jobs for API-to-Delta-Live transformations  
-✅ Optimized ADF pipelines, reducing execution time by **50%**  
+## 👨‍💼 Data Engineer 1  
+📍 **Hyderabad, India**  
+📅 **June 2023 – Present**  
 
-#### 🏗️ **Database Migration (800M+ Records)**  
-✅ Migrated **500+ tables** from **Azure SQL Data Warehouse to Azure SQL Warehouse**  
-✅ Reduced incremental data loading time by **40%**  
-✅ Automated **daily validation reports** using Azure Logic Apps  
+---
+
+### 🏥 Healthcare Data Management Project  
+- 🚀 Designed and executed a **scalable DLT pipeline** for healthcare ETL, improving **reliability by 30%**  
+- 🔗 Engineered **ADF pipelines** for a **12-endpoint paginated API**, delivering project **2 weeks early** as a fresher  
+- ⚡ Developed **PySpark jobs** to ingest **10M+ records/day** into **Delta Live Tables (DLT)**, reducing latency **40%**  
+- 📊 Optimized ADF pipelines with **partitioning + incremental loads**, cutting runtime **50% (4hrs → 2hrs)**  
+
+---
+
+### 🗄️ Database Migration Project  
+- 📦 Migrated **500GB** from **Azure SQL DB** to a new region for a **Fortune 500 brand**, cutting latency **30%** via **index optimization & parallel extracts**  
+- 🔄 Reduced **incremental loads by 40%** using **CDC (Change Data Capture)** for daily refreshes  
+- 🤖 Automated **daily data validation** with **Azure Logic Apps**, reducing manual effort **70%**  
+- 🛠️ Consolidated **100+ stored procedures** into **5 ADF pipelines**, streamlining **maintenance & scalability**  
+
+---
+
+## 👨‍💼 Data Engineer 2  
+
+---
+
+### 🛒 E-commerce Data Management & Analytics Project  
+- 📊 Executed & optimized **GA4 API data model** using PySpark, improving **page visibility** & reducing query runtime **95%**  
+- 🏗️ Reduced pipeline complexity **90%** by consolidating **15 ADF pipelines → 1 workflow** with **medallion structure**  
+- 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite appreciation** from a **US-based beauty apparel brand**  
+- 💳 Designed **Purchase Order Data Model** with **Spark SQL**, enhancing **financial tracking & reporting efficiency**  
+
+---
+
+## ⚙️ Tech Stack  
+`Azure Data Factory` | `Delta Live Tables` | `PySpark` | `Spark SQL` | `Azure SQL DB` | `CDC` | `GA4 API` | `CI/CD`  
 
 ---
 
