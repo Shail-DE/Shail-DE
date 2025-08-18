@@ -16,10 +16,10 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 ## ⚡ Skills & Tech Stack
 
 🔹 **Cloud Platforms:** Azure, GCP  
-🔹 **Programming & Query Languages:** Python, SQL, Jinja, HiveQL  
-🔹 **Big Data & Distributed Computing:** Hadoop, PySpark, Databricks  
-🔹 **ETL & Orchestration:** Apache Airflow, ADF, Fivetran  
-🔹 **Databases:** SQL Server, MongoDB, Cassandra  
+🔹 **Big Data & Distributed Computing:** Databricks, Hadoop, PySpark, Delta Lake, Kafka  
+🔹 **ETL & Orchestration:** Azure Data Factory (ADF), Apache Airflow, Fivetran, CI/CD  
+🔹 **Databases:** SQL Server, Snowflake, MongoDB, Cassandra  
+🔹 **Programming & Query Languages:** Python, SQL, Data Structures & Algorithms   
 
 ![Big Data](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
@@ -54,20 +54,11 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 
 ---
 
-## 👨‍💼 Data Engineer 2  
-
----
-
 ### 🛒 E-commerce Data Management & Analytics Project  
 - 📊 Executed & optimized **GA4 API data model** using PySpark, improving **page visibility** & reducing query runtime **95%**  
 - 🏗️ Reduced pipeline complexity **90%** by consolidating **15 ADF pipelines → 1 workflow** with **medallion structure**  
 - 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite appreciation** from a **US-based beauty apparel brand**  
 - 💳 Designed **Purchase Order Data Model** with **Spark SQL**, enhancing **financial tracking & reporting efficiency**  
-
----
-
-## ⚙️ Tech Stack  
-`Azure Data Factory` | `Delta Live Tables` | `PySpark` | `Spark SQL` | `Azure SQL DB` | `CDC` | `GA4 API` | `CI/CD`  
 
 ---
 
