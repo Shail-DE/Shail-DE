@@ -2,9 +2,16 @@
 
 ![ETL Pipeline](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
 
-## About Me
+## 👨‍💻 About Me  
 
-Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with expertise in **Big Data, ETL Pipelines, and Distributed Systems**. With ~2 years of experience optimizing **Azure-based** data workflows, I've reduced query runtimes by **95%**, consolidated **complex pipelines**, and migrated **800M+ records** seamlessly. I love solving data challenges, designing efficient architectures, and automating workflows. 
+I am a **Data Engineer** with **2+ years of experience** in designing and optimizing scalable **ELT pipelines** on **Azure** using **Databricks, SQL, Python, PySpark, and Delta Lake**.  
+
+- 🚀 Improved **pipeline efficiency by 50%+** and reduced **data latency by up to 40%** across multiple projects  
+- 🛒 Experience across **E-commerce** and 🏥 **Healthcare** industries  
+- 🔗 Skilled in **API integrations** & **data modeling**, with a strong track record of **delivering ahead of schedule**  
+- ⚡ Hands-on expertise in **Kafka, Airflow, and real-time analytics**  
+
+✨ Passionate about building **scalable data solutions**, enabling **faster insights**, and driving **business impact**.  
 
 - 🌍 **Location:** Hyderabad, India  
 - 🎓 **Education:** B.Tech, National Institute of Technology (NIT), Silchar 
@@ -33,9 +40,6 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 ---
 
 ## 👨‍💼 Data Engineer
-📍 **Hyderabad, India**  
-📅 **June 2023 – Present**  
-
 ---
 
 ### 🏥 Healthcare Data Management Project  
