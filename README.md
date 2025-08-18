@@ -32,7 +32,7 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 
 ---
 
-## 👨‍💼 Data Engineer 1  
+## 👨‍💼 Data Engineer
 📍 **Hyderabad, India**  
 📅 **June 2023 – Present**  
 
@@ -64,11 +64,11 @@ Hey there! 👋 I'm **Shail Raj Mishra**, a passionate **Data Engineer** with ex
 
 ## 🚀 Key Projects
 
-### 📌 GEN-AI ERD Generator  
-🔹 **Tech Stack:** Python, Flask, OpenAI API  
-🔹 Automated **ERD generation from stored procedures** reducing manual effort by **70%**  
-🔹 Accelerated database design workflows by **3x**, improving collaboration  
-🔹 Adopted by **5+ teams**, streamlining client proposals 📈  
+
+
+
+
+
 
 
 ---
