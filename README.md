@@ -65,7 +65,7 @@ I am a **Data Engineer** with **2+ years of focused experience** in building and
 
 ## 📦 Merchant Fulfillment Tracking Flow  
 
-**Tech Stack:** GCP | Databricks | Spark Streaming (PySpark) | Kafka | Faker | Event Triggers | GitHub  
+**Tech Stack:** GCP + Databricks + Spark Streaming (PySpark) + Kafka + Faker + Event Triggers + GitHub  
 
 - ⚡ Designed a **real-time data pipeline** processing **5000+ transactions/day** with **40% lower latency**  
 - 🔄 Simulated **streaming transactions** using **Kafka Producer (Faker)** reading from **GCS every 5 mins** *(near real-time)*  
