@@ -46,7 +46,7 @@ I am a **Data Engineer** with **2+ years of focused experience** in building and
 ---
 
 ### 🗄️ Database Migration Project  
-- 📦 Migrated **500GB** from **Azure SQL DB** to a new region for a **Fortune 500 brand**, cutting latency **30%** via **index optimization & parallel extracts**  
+- 📦 Migrated **500GB** from **Azure SQL DB** to a new region for a **Fortune 500 brand**, cutting latency **30%** via **index optimization**  
 - 🔄 Reduced **incremental loads by 40%** using **CDC (Change Data Capture)** for daily refreshes  
 - 🤖 Automated **daily data validation** with **Azure Logic Apps**, reducing manual effort **70%**  
 - 🛠️ Consolidated **100+ stored procedures** into **5 ADF pipelines**, streamlining **maintenance & scalability**  
@@ -56,7 +56,7 @@ I am a **Data Engineer** with **2+ years of focused experience** in building and
 ### 🛒 E-commerce Data Management & Analytics Project  
 - 📊 Executed & optimized **GA4 API data model** using PySpark, improving **page visibility** & reducing query runtime **95%**  
 - 🏗️ Reduced pipeline complexity **90%** by consolidating **15 ADF pipelines → 1 workflow** with **medallion structure**  
-- 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite appreciation** from a **US-based beauty apparel brand**  
+- 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite appreciation** from a leading US brand**  
 - 💳 Designed **Purchase Order Data Model** with **Spark SQL**, enhancing **financial tracking & reporting efficiency**  
 
 ---
