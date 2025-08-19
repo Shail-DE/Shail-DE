@@ -56,7 +56,7 @@ I am a **Data Engineer** with **2+ years of focused experience** in building and
 ### 🛒 E-commerce Data Management & Analytics Project  
 - 📊 Executed & optimized **GA4 API data model** using PySpark, improving **page visibility** & reducing query runtime **95%**  
 - 🏗️ Reduced pipeline complexity **90%** by consolidating **15 ADF pipelines → 1 workflow** with **medallion structure**  
-- 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite appreciation** from a leading US brand**  
+- 🎯 Built **E-commerce marketing models** using **STAR schema + SCD2 + CI/CD pipeline**, earning **C-suite praise from a leading US brand**  
 - 💳 Designed **Purchase Order Data Model** with **Spark SQL**, enhancing **financial tracking & reporting efficiency**  
 
 ---
