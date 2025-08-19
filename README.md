@@ -35,11 +35,6 @@ I am a **Data Engineer** with **2+ years of experience** in designing and optimi
 ## 💼 Professional Experience
 
 ### 📌 Data Engineer @ Accordion Partners (formerly Merilytics)  
-# 💻 Data Engineering Portfolio  
-
----
-
-## 👨‍💼 Data Engineer
 ---
 
 ### 🏥 Healthcare Data Management Project  
@@ -67,17 +62,17 @@ I am a **Data Engineer** with **2+ years of experience** in designing and optimi
 ---
 
 ## 🚀 Key Projects
-
-## 📦 Merchant Fulfillment Tracking Flow  
-
-**Tech Stack:** GCP | Databricks | Spark Streaming (PySpark) | Kafka | Faker | Event Triggers | GitHub  
-
-- ⚡ Designed a **real-time data pipeline** processing **5000+ transactions/day** with **40% lower latency**  
-- 🔄 Simulated **streaming transactions** using **Kafka Producer (Faker)** reading from **GCS every 5 mins** *(near real-time)*  
-- 📊 Created **aggregated Delta tables** to track:  
-  - ✅ Fulfilled vs Refunded transactions  
-  - 💰 Net Sales reporting  
-- 🤖 Automated **event-based ingestion, transformation, and archival** using **Databricks**, reducing manual effort **80%**  
+  
+  ## 📦 Merchant Fulfillment Tracking Flow  
+  
+  **Tech Stack:** GCP | Databricks | Spark Streaming (PySpark) | Kafka | Faker | Event Triggers | GitHub  
+  
+  - ⚡ Designed a **real-time data pipeline** processing **5000+ transactions/day** with **40% lower latency**  
+  - 🔄 Simulated **streaming transactions** using **Kafka Producer (Faker)** reading from **GCS every 5 mins** *(near real-time)*  
+  - 📊 Created **aggregated Delta tables** to track:  
+    - ✅ Fulfilled vs Refunded transactions  
+    - 💰 Net Sales reporting  
+  - 🤖 Automated **event-based ingestion, transformation, and archival** using **Databricks**, reducing manual effort **80%**  
 
 
 ---
@@ -93,7 +88,6 @@ I am a **Data Engineer** with **2+ years of experience** in designing and optimi
 ## 📚 Certifications & Bootcamps
 
 ✅ **Data Engineering Bootcamp (Azure)**  
-✅ Hands-on **Big Data, SQL Optimization, Cloud Data Warehousing**  
 
 ---
 
